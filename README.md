@@ -10,7 +10,7 @@ This work is licensed by [Robert Haase](https://haesleinhuepf.github.io), [ScaDS
 # Bio-image Data Science
 
 This repository contains training resources for Students at Uni Leipzig who want to dive into bio-image data science with Python. 
-Corresponding PPTx files can be found [on zenodo]().
+Corresponding PPTx files can be found [on zenodo](https://doi.org/10.5281/zenodo.15182562).
 
 ## Teaching Goal
 
