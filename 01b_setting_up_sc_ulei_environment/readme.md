@@ -3,7 +3,7 @@
 These instructions are derived/modified from [this page](https://www.sc.uni-leipzig.de/05_Instructions/Jupyter/#how-to-use-your-own-environments-and-kernels).
 
 Request a [Scientific Computing Account at ULei](https://www.urz.uni-leipzig.de/servicedesk-und-hilfe/hilfe-zu-unseren-services/forschung/hilfe-webbasiertes-data-science-und-machine-learning-mit-jupyter). Use this information when applying:
-* Zugang zu den System(en): paula, clara
+* Zugang zu den System(en): paula, clara, jupyter
 * Projektname: Lecture Bio Image Data Science
 * Projektverantwortliche: Robert Haase
 * Fakultät: Math/Inf
