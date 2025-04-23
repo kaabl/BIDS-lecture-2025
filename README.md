@@ -34,6 +34,21 @@ or basic biological research.
     * [Setting up Jupyter Hub at Scientific Computing / Leipzig University](01b_setting_up_sc_ulei_environment/readme.md)
     * [Execute the trailer notebook](01c_testing_environment/trailer.ipynb)
 
+* [Microscopy Image Processing](02_Image_Processing.pdf") (April 25th 2025)
+  * Image visualization
+  * Image filtering
+  * Morphological operations
+  * Exercises:
+    * [Images are just arrays of numbers](02a_image_processing/01_images_as_arrays.ipynb)
+    * [Opening images and applying colormaps](02a_image_processing/02_opening_visualizing_images.ipynb)
+    * [Opening and handling proprietary file formats](02a_image_processing/03_opening_images_using_aicsimageio.ipynb)
+    * [Image windowing](02a_image_processing/04_Brightness_and_Contrast.ipynb)
+    * [Cropping images](02a_image_processing/05_Cropping_images.ipynb)
+    * [Inspecting 3D images](02a_image_processing/06_inspecting_3d_images.ipynb)
+    * [Image processing filters](02a_image_processing/07_image_processing_filters.ipynb)
+    * [Basic thresholding](02a_image_processing/08_basic_thresholding.ipynb)
+    * [Morphological operations](02a_image_processing/09_binary_mask_refinement.ipynb)
+
 
 ## Pre-requisites
 * Basic Python programming skills are required
