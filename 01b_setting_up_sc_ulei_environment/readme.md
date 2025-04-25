@@ -21,6 +21,16 @@ At this point, we need to reopen the terminal. Afterwards, create a conda enviro
 
 ```
 conda create --name my_first_env python=3.9
+```
+
+You can then activate the environment:
+```
+conda activate my_first_env
+```
+
+If an error occors here (`CondaError: Run 'conda init' before 'conda activate'`), you need to call this:
+```
+eval "$(conda shell.bash hook)"
 conda activate my_first_env
 ```
 
