@@ -49,6 +49,18 @@ or basic biological research.
     * [Basic thresholding](02a_image_processing/08_basic_thresholding.ipynb)
     * [Morphological operations](02a_image_processing/09_binary_mask_refinement.ipynb)
 
+' [Image Segmentation & Napari](03_Image_segmentation.pdf) (May 2nd 2025)
+  * Image Segmentation
+  * Label Morphological operations
+  * [Interactive Image Processing using Napari](03b_napari_notebooks/napari_intro.ipynb)
+  * [Image Processing pitfalls in Python](03a_image_segmentation/pitfals.ipynb)
+  * Exercises:
+    * [Gauss-Otsu-Labeling](03a_image_segmentation/09_gauss_otsu_labeling.ipynb)
+    * [Voronoi-Otsu-Labeling](03a_image_segmentation/11_voronoi_otsu_labeling.ipynb)
+    * [3D Image Segmentation](03a_image_segmentation/12_Segmentation_3D.ipynb)
+    * [Watershed-algorithm](03a_image_segmentation/13_watershed.ipynb)
+    * [Designing Image Processing workflows interactively](03b_napari_notebooks/napari-assistant.md)
+    * [Auto-generating Jupyter Notebooks](03b_napari_notebooks/notebook_export.md)
 
 ## Pre-requisites
 * Basic Python programming skills are required
