@@ -62,6 +62,18 @@ or basic biological research.
     * [Designing Image Processing workflows interactively](03b_napari_notebooks/napari-assistant.md)
     * [Auto-generating Jupyter Notebooks](03b_napari_notebooks/notebook_export.md)
 
+  [Surface Reconstruction and feature extraction](04_Surface_Reconstruction_Feature_Extraction.pdf) (May 9th 2025)
+  * Surface Reconstruction, mesh simplification, mesh smoothing
+  * Feature Extraction, visualization
+  * Exercises:
+    * [Update your environment installation](reconstruction/readme.md)
+    * [Creating surface meshes](04a_surface reconstruction/creating_surfaces.ipynb)
+    * [Visualizing surface meshes](04a_surface reconstruction/visualizing_surfaces.ipynb)
+    * [Feature extraction with scikit-image](04b_feature_extraction/01_feature_extraction_with_scikit_image.ipynb)
+    * [Feature extraction with SimpleITK](04b_feature_extraction/03_feature_extraction_with_simpleitk.ipynb)
+    * [Parametric Maps](04b_feature_extraction/05_parametric_maps.ipynb)
+    * [Interactive Plots](04b_feature_extraction/06_interactive_plots.ipynb)
+
 ## Pre-requisites
 * Basic Python programming skills are required
 
