@@ -67,8 +67,8 @@ or basic biological research.
   * Feature Extraction, visualization
   * Exercises:
     * [Update your environment installation](reconstruction/readme.md)
-    * [Creating surface meshes](04a_surface reconstruction/creating_surfaces.ipynb)
-    * [Visualizing surface meshes](04a_surface reconstruction/visualizing_surfaces.ipynb)
+    * [Creating surface meshes](04a_surface_reconstruction/creating_surfaces.ipynb)
+    * [Visualizing surface meshes](04a_surface_reconstruction/visualizing_surfaces.ipynb)
     * [Feature extraction with scikit-image](04b_feature_extraction/01_feature_extraction_with_scikit_image.ipynb)
     * [Feature extraction with SimpleITK](04b_feature_extraction/03_feature_extraction_with_simpleitk.ipynb)
     * [Parametric Maps](04b_feature_extraction/05_parametric_maps.ipynb)
