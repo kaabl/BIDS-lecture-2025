@@ -74,6 +74,45 @@ or basic biological research.
     * [Parametric Maps](04b_feature_extraction/05_parametric_maps.ipynb)
     * [Interactive Plots](04b_feature_extraction/06_interactive_plots.ipynb)
 
+## Assignments
+
+As explained in the lecture on May 9th, every enrolled student has to submit an image analysis workflow + documentation. The workflows are intended to process different datasets. Each student gets their own dataset. Download the zipfile corresponding to your MatNr and unzip it. The password was given to you in the lecture on May 9th.
+[3795650](assignments/3795650.zip)
+[3781296](assignments/3781296.zip)
+[3799815](assignments/3799815.zip)
+[3745356](assignments/3745356.zip)
+[3711464](assignments/3711464.zip)
+[3781088](assignments/3781088.zip)
+[3782680](assignments/3782680.zip)
+[3769826](assignments/3769826.zip)
+[3790403](assignments/3790403.zip)
+[3746612](assignments/3746612.zip)
+[3787475](assignments/3787475.zip)
+[3706879](assignments/3706879.zip)
+[3792009](assignments/3792009.zip)
+[3796977](assignments/3796977.zip)
+[3796590](assignments/3796590.zip)
+[3795611](assignments/3795611.zip)
+[3795409](assignments/3795409.zip)
+[3792423](assignments/3792423.zip)
+[3771050](assignments/3771050.zip)
+[2163012](assignments/2163012.zip)
+[3777628](assignments/3777628.zip)
+[3780527](assignments/3780527.zip)
+[3765110](assignments/3765110.zip)
+[3720384](assignments/3720384.zip)
+[3781461](assignments/3781461.zip)
+[3763803](assignments/3763803.zip)
+[3795674](assignments/3795674.zip)
+[3781887](assignments/3781887.zip)
+[3733406](assignments/3733406.zip)
+[3770023](assignments/3770023.zip)
+[3750893](assignments/3750893.zip)
+[3761687](assignments/3761687.zip)
+
+If you cannot find your MatNr in the list above, please reach out via Email. Also in case the dataset linked in the zip file is not available or not suitable, please reach out.
+
+
 ## Pre-requisites
 * Basic Python programming skills are required
 
