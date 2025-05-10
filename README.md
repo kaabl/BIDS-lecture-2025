@@ -73,6 +73,17 @@ or basic biological research.
     * [Feature extraction with SimpleITK](04b_feature_extraction/03_feature_extraction_with_simpleitk.ipynb)
     * [Parametric Maps](04b_feature_extraction/05_parametric_maps.ipynb)
     * [Interactive Plots](04b_feature_extraction/06_interactive_plots.ipynb)
+    
+ [GPU-Acceleration, Tiled image processing and Quality Assurance](05_GPUs_Tiles_QA.pdf) (May 16th 2025)
+ * Grapics Processing Units for Image Analysis, OpenCL, Benchmarking
+ * Processing images in tiles using zarr and dask
+ * Measuring quality of segmentation results
+ * Exercises:
+   * [Benchmarking image processing filters using scikit-image, scipy, simple-itk and clesperanto](05a_gpu_acceleration/60_benchmark_gaussian.ipynb)
+   * [Processing images in tiles with overlap](05b_tiled_image_processing/02_tiling_images_with_overlap.ipynb)
+   * [Counting nuclei in tiles](05b_tiled_image_processing/04_tiled_nuclei_counting.ipynb)
+   * [Measure quality of segmentation results](05c_quality_assurance/segmentation_quality_estimation.ipynb)
+   * [Visual comparison of segmentation results](05c_quality_assurance/visual_comparison.ipynb)
 
 ## Assignments
 
