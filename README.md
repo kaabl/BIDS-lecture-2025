@@ -62,7 +62,7 @@ or basic biological research.
     * [Designing Image Processing workflows interactively](03b_napari_notebooks/napari-assistant.md)
     * [Auto-generating Jupyter Notebooks](03b_napari_notebooks/notebook_export.md)
 
- * [Surface Reconstruction and feature extraction](04_Surface_Reconstruction_Feature_Extraction.pdf) (May 9th 2025)
+* [Surface Reconstruction and feature extraction](04_Surface_Reconstruction_Feature_Extraction.pdf) (May 9th 2025)
   * Surface Reconstruction, mesh simplification, mesh smoothing
   * Feature Extraction, visualization
   * Exercises:
@@ -74,16 +74,16 @@ or basic biological research.
     * [Parametric Maps](04b_feature_extraction/05_parametric_maps.ipynb)
     * [Interactive Plots](04b_feature_extraction/06_interactive_plots.ipynb)
     
- * [GPU-Acceleration, Tiled image processing and Quality Assurance](05_GPUs_Tiles_QA.pdf) (May 16th 2025)
- * Grapics Processing Units for Image Analysis, OpenCL, Benchmarking
- * Processing images in tiles using zarr and dask
- * Measuring quality of segmentation results
- * Exercises:
-   * [Benchmarking image processing filters using scikit-image, scipy, simple-itk and clesperanto](05a_gpu_acceleration/60_benchmark_gaussian.ipynb)
-   * [Processing images in tiles with overlap](05b_tiled_image_processing/02_tiling_images_with_overlap.ipynb)
-   * [Counting nuclei in tiles](05b_tiled_image_processing/04_tiled_nuclei_counting.ipynb)
-   * [Measure quality of segmentation results](05c_quality_assurance/segmentation_quality_estimation.ipynb)
-   * [Visual comparison of segmentation results](05c_quality_assurance/visual_comparison.ipynb)
+* [GPU-Acceleration, Tiled image processing and Quality Assurance](05_GPUs_Tiles_QA.pdf) (May 16th 2025)
+  * Grapics Processing Units for Image Analysis, OpenCL, Benchmarking
+  * Processing images in tiles using zarr and dask
+  * Measuring quality of segmentation results
+  * Exercises:
+    * [Benchmarking image processing filters using scikit-image, scipy, simple-itk and clesperanto](05a_gpu_acceleration/60_benchmark_gaussian.ipynb)
+    * [Processing images in tiles with overlap](05b_tiled_image_processing/02_tiling_images_with_overlap.ipynb)
+    * [Counting nuclei in tiles](05b_tiled_image_processing/04_tiled_nuclei_counting.ipynb)
+    * [Measure quality of segmentation results](05c_quality_assurance/segmentation_quality_estimation.ipynb)
+    * [Visual comparison of segmentation results](05c_quality_assurance/visual_comparison.ipynb)
    
 * [Introduction to Machine Learning](06_Sup_Unsup_Machine_Learning.pdf) (May 23rd 2025)
   * Unsupervised ML
