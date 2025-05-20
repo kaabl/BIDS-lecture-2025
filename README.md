@@ -49,7 +49,7 @@ or basic biological research.
     * [Basic thresholding](02a_image_processing/08_basic_thresholding.ipynb)
     * [Morphological operations](02a_image_processing/09_binary_mask_refinement.ipynb)
 
-' [Image Segmentation & Napari](03_Image_segmentation.pdf) (May 2nd 2025)
+* [Image Segmentation & Napari](03_Image_segmentation.pdf) (May 2nd 2025)
   * Image Segmentation
   * Label Morphological operations
   * [Interactive Image Processing using Napari](03b_napari_notebooks/napari_intro.ipynb)
@@ -62,7 +62,7 @@ or basic biological research.
     * [Designing Image Processing workflows interactively](03b_napari_notebooks/napari-assistant.md)
     * [Auto-generating Jupyter Notebooks](03b_napari_notebooks/notebook_export.md)
 
-  [Surface Reconstruction and feature extraction](04_Surface_Reconstruction_Feature_Extraction.pdf) (May 9th 2025)
+ * [Surface Reconstruction and feature extraction](04_Surface_Reconstruction_Feature_Extraction.pdf) (May 9th 2025)
   * Surface Reconstruction, mesh simplification, mesh smoothing
   * Feature Extraction, visualization
   * Exercises:
@@ -74,7 +74,7 @@ or basic biological research.
     * [Parametric Maps](04b_feature_extraction/05_parametric_maps.ipynb)
     * [Interactive Plots](04b_feature_extraction/06_interactive_plots.ipynb)
     
- [GPU-Acceleration, Tiled image processing and Quality Assurance](05_GPUs_Tiles_QA.pdf) (May 16th 2025)
+ * [GPU-Acceleration, Tiled image processing and Quality Assurance](05_GPUs_Tiles_QA.pdf) (May 16th 2025)
  * Grapics Processing Units for Image Analysis, OpenCL, Benchmarking
  * Processing images in tiles using zarr and dask
  * Measuring quality of segmentation results
@@ -84,6 +84,19 @@ or basic biological research.
    * [Counting nuclei in tiles](05b_tiled_image_processing/04_tiled_nuclei_counting.ipynb)
    * [Measure quality of segmentation results](05c_quality_assurance/segmentation_quality_estimation.ipynb)
    * [Visual comparison of segmentation results](05c_quality_assurance/visual_comparison.ipynb)
+   
+* [Introduction to Machine Learning](06_Sup_Unsup_Machine_Learning.pdf) (May 23rd 2025)
+  * Unsupervised ML
+  * Supervised ML
+  * Explainable ML
+  * Exercises:
+    * [Interactive parameter exploration](06a_hypothesis_generation/interactive_parameter_exploration.ipynb)
+    * [Interactive Pixel Classification](06b_pixel_and_object_classification/interactive_pixel_classification/readme.md)
+    * [Interactive Object Classification](06b_pixel_and_object_classification/interactive_object_classification/readme.md)
+    * [Pixel classification using Scikit-Learn](06b_pixel_and_object_classification/01_scikit_learn_random_forest_pixel_classifier.ipynb)
+    * [SHAP installation](06c_xai_shap/readme.md)
+    * [Explaining Pixel Classification](06c_xai_shap/pixel_classifier.ipynb)
+    * [Explaining Object Classification](06c_xai_shap/object_classification.ipynb)
 
 ## Assignments
 
