@@ -97,6 +97,16 @@ or basic biological research.
     * [SHAP installation](06c_xai_shap/readme.md)
     * [Explaining Pixel Classification](06c_xai_shap/pixel_classifier.ipynb)
     * [Explaining Object Classification](06c_xai_shap/object_classification.ipynb)
+    
+ * [Deep Learning for Bio-image Analysis](07_Deep_Learning.pdf) (May 30th 2025)
+   * Denoising
+   * Segmentation
+   * Exercises
+     * [Noise2void](07a_dl_denoising/noise2void.ipynb)
+     * [StarDist](07b_dl_segmentation/stardist.ipynb)
+     * [CellPose](07b_dl_segmentation/cellpose.ipynb)
+     * [Micro-SAM](07b_dl_segmentation/micro-sam.ipynb)
+     * [CellPose-SAM](07b_dl_segmentation/cellpose-sam.ipynb)
 
 ## Assignments
 
