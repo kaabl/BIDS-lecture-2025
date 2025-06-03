@@ -107,6 +107,18 @@ or basic biological research.
      * [CellPose](07b_dl_segmentation/cellpose.ipynb)
      * [Micro-SAM](07b_dl_segmentation/micro-sam.ipynb)
      * [CellPose-SAM](07b_dl_segmentation/cellpose-sam.ipynb)
+     
+* [Introduction to Large Language Models](08_LLMs_Intro.pdf) (June 6th 2025)
+  * Intro to LLMs
+  * Prompt Engineering
+  * LLM service providers
+  * Good Scientific Practice
+  * Exercises
+    * [Installation](08a_llm_endpoints/readme.md)
+    * Endpoints (choose one): [ollama](08a_llm_endpoints/02_ollama_endpoint.ipynb), [blablador](08a_llm_endpoints/03_blablador_endpoint.ipynb), [kisski](08a_llm_endpoints/04_kisski_endpoint.ipynb), [github models](08a_llm_endpoints/05_github_models_endpoints.ipynb), [openrouter](08a_llm_endpoints/07_openrouter_endpoint.ipynb)
+    * [Programming a Chatbot](08b_chatbot/gui.ipynb)
+    * [LLMs guessing which image processing algorithm to use](08c_guess_library/guess_library.ipynb)
+
 
 ## Assignments
 
